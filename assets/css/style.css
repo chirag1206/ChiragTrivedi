@@ -1,4 +1,4 @@
-/**
+﻿/**
 * Template Name: iPortfolio - v1.4.1
 * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 * Author: BootstrapMade.com
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url('../img/me.jpeg') top center;
   background-size: cover;
 }
 
@@ -884,7 +884,7 @@ section {
   padding: 10px 12px;
 }
 
-.contact .php-email-form button[type="submit"] {
+.contact .php-email-form button[type=submit] {
   background: #149ddd;
   border: 0;
   padding: 10px 24px;
@@ -893,7 +893,7 @@ section {
   border-radius: 4px;
 }
 
-.contact .php-email-form button[type="submit"]:hover {
+.contact .php-email-form button[type=submit]:hover {
   background: #37b3ed;
 }
 
